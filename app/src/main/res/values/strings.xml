@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LatAssUlang3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="aufa_aninditya_ramadhan">Aufa Aninditya Ramadhan</string>
+    <string name="_6706184131">6706184131</string>
+    <string name="d3rpla_42_04">D3RPLA 42 04</string>
+    <string name="about">About</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="luas">Luas</string>
+    <string name="keliling">Keliling</string>
+    <string name="_0">0</string>
+    <string name="share">Share</string>
+    <string name="share_pp">Persegi Panjang dengan Panjang %1$d dan Lebar %2$d mempunyai Luas %3$d dan Keliling %4$d</string>
+</resources>
